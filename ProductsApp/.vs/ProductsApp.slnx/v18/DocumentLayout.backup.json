@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sedle\\source\\repos\\ProductsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6147E6-FBF4-4663-89B4-712FAA81B2D6}|ProductsApp\\ProductsApp.csproj|c:\\users\\sedle\\source\\repos\\productsapp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6147E6-FBF4-4663-89B4-712FAA81B2D6}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6147E6-FBF4-4663-89B4-712FAA81B2D6}|ProductsApp\\ProductsApp.csproj|c:\\users\\sedle\\source\\repos\\productsapp\\productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6147E6-FBF4-4663-89B4-712FAA81B2D6}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sedle\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sedle\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:32:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sedle\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sedle\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:31:29.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
