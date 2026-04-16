@@ -65,9 +65,9 @@
               "var jsonData = pm.response.json();\r",
               "\r",
               "pm.test(\"value of [0].Id to be 2\", () => {pm.expect(jsonData.Id).to.equal(2)});\r",
-              "pm.test(\"value of [1].Id to be Yo-yo\", () => {pm.expect(jsonData.Name).to.equal(\"Yo-yo\")});\r",
-              "pm.test(\"value of [2].Id to be Toys\", () => {pm.expect(jsonData.Category).to.equal(\"Toys\")});\r",
-              "pm.test(\"value of [3].Id to be 3.75\", () => {pm.expect(jsonData.Price).to.equal(3.75)});\r",
+              "pm.test(\"value of [1].Id to be Plane\", () => {pm.expect(jsonData.Name).to.equal(\"Plane\")});\r",
+              "pm.test(\"value of [2].Id to be Vechicle\", () => {pm.expect(jsonData.Category).to.equal(\"Vechicle\")});\r",
+              "pm.test(\"value of [3].Id to be 8.25\", () => {pm.expect(jsonData.Price).to.equal(8.25)});\r",
               "\r",
               "pm.test(\"response to be 200 OK\", () => {pm.response.to.have.status(200)})"
             ],
